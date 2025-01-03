@@ -104,4 +104,5 @@ def main():
             print_stats(hits_count, bads_count)
 
 if __name__ == "__main__":
-    main()
+    main(Zamya)
+    
